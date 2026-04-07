@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - ITIL
-  - IT Service Management
-  - ITSM
   - Best Practices
+  - IT Service Management
+  - ITIL
+  - ITSM
 url: >-
   https://raw.githubusercontent.com/api-evangelist/itil/refs/heads/main/apis.yml
 created: '2025-01-01'
