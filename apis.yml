@@ -31,9 +31,8 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/itil.png
 tags:
   - Best Practices
-  - IT Service Management
-  - ITIL
   - ITSM
+  - ITIL
 tags_raw:
   - Best Practices
   - IT Service Management
